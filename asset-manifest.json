@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vaccinefinder/static/css/main.dc7d4eed.chunk.css",
+    "main.js": "/vaccinefinder/static/js/main.e22c1755.chunk.js",
+    "main.js.map": "/vaccinefinder/static/js/main.e22c1755.chunk.js.map",
+    "runtime-main.js": "/vaccinefinder/static/js/runtime-main.3dffcd46.js",
+    "runtime-main.js.map": "/vaccinefinder/static/js/runtime-main.3dffcd46.js.map",
+    "static/js/2.d76d270c.chunk.js": "/vaccinefinder/static/js/2.d76d270c.chunk.js",
+    "static/js/2.d76d270c.chunk.js.map": "/vaccinefinder/static/js/2.d76d270c.chunk.js.map",
+    "index.html": "/vaccinefinder/index.html",
+    "static/css/main.dc7d4eed.chunk.css.map": "/vaccinefinder/static/css/main.dc7d4eed.chunk.css.map",
+    "static/js/2.d76d270c.chunk.js.LICENSE.txt": "/vaccinefinder/static/js/2.d76d270c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dffcd46.js",
+    "static/js/2.d76d270c.chunk.js",
+    "static/css/main.dc7d4eed.chunk.css",
+    "static/js/main.e22c1755.chunk.js"
+  ]
+}
