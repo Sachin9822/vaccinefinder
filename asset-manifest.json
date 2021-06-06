@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/vaccinefinder/static/css/main.dc7d4eed.chunk.css",
-    "main.js": "/vaccinefinder/static/js/main.7e4c16f6.chunk.js",
-    "main.js.map": "/vaccinefinder/static/js/main.7e4c16f6.chunk.js.map",
+    "main.js": "/vaccinefinder/static/js/main.2a4cecd2.chunk.js",
+    "main.js.map": "/vaccinefinder/static/js/main.2a4cecd2.chunk.js.map",
     "runtime-main.js": "/vaccinefinder/static/js/runtime-main.3dffcd46.js",
     "runtime-main.js.map": "/vaccinefinder/static/js/runtime-main.3dffcd46.js.map",
-    "static/js/2.8bcf9d1a.chunk.js": "/vaccinefinder/static/js/2.8bcf9d1a.chunk.js",
-    "static/js/2.8bcf9d1a.chunk.js.map": "/vaccinefinder/static/js/2.8bcf9d1a.chunk.js.map",
+    "static/js/2.451aa6be.chunk.js": "/vaccinefinder/static/js/2.451aa6be.chunk.js",
+    "static/js/2.451aa6be.chunk.js.map": "/vaccinefinder/static/js/2.451aa6be.chunk.js.map",
     "index.html": "/vaccinefinder/index.html",
     "static/css/main.dc7d4eed.chunk.css.map": "/vaccinefinder/static/css/main.dc7d4eed.chunk.css.map",
-    "static/js/2.8bcf9d1a.chunk.js.LICENSE.txt": "/vaccinefinder/static/js/2.8bcf9d1a.chunk.js.LICENSE.txt"
+    "static/js/2.451aa6be.chunk.js.LICENSE.txt": "/vaccinefinder/static/js/2.451aa6be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3dffcd46.js",
-    "static/js/2.8bcf9d1a.chunk.js",
+    "static/js/2.451aa6be.chunk.js",
     "static/css/main.dc7d4eed.chunk.css",
-    "static/js/main.7e4c16f6.chunk.js"
+    "static/js/main.2a4cecd2.chunk.js"
   ]
 }
