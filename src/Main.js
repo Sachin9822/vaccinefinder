@@ -17,7 +17,7 @@ const Main = () => {
   const [age, setage] = useState(1);
 
   const HSignIn = () => {
-    auth.signInWithPopup(provider);
+    auth.signInWithRedirect(provider);
   };
   const HSignout = () => {
     auth.signOut();
