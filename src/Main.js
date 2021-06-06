@@ -53,7 +53,7 @@ const Main = () => {
       <HeaderContainer>
         <HeaderContent>
           <Header>Vaccine Finder</Header>
-          {user ? (
+          {/* {user ? (
             <HeaderRight>
               <Tooltip content={["Log Out"]}>
                 <HeaderAvatar src={user.photoURL} onClick={HSignout} />
@@ -67,7 +67,7 @@ const Main = () => {
             </HeaderRight>
           ) : (
             <LoginButton onClick={HSignIn}>Login</LoginButton>
-          )}
+          )} */}
         </HeaderContent>
 
         <Input
